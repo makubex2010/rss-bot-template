@@ -20,3 +20,4 @@ mysql-port 的默認端口號是 3306。
   
 ## 來源
 - [indes](https://github.com/indes) for [flowerss-bot](https://github.com/indes/flowerss-bot)
+- [核心程式](https://github.com/makubex2010/flowerss-bot/tree/deploy)
