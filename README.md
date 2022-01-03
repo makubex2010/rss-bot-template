@@ -1,7 +1,7 @@
-# rss-bot
+# RSS-BOT
 使用 heroku 部屬的 RSS 機器人。 使用源代碼來自於 indes/flowerss-bot。
 
-將 rss-bot 分叉（fork）到自己的帳戶下。將您的配置添加到 config.yml.sample，並把名稱修改成 config.yml，如果您不知道其他配置的作用，請不要動它們。
+將 RSS-BOT 分叉（fork）到自己的帳戶下。將您的配置添加到 config.yml.sample，並把名稱修改成 config.yml，如果您不知道其他配置的作用，請不要動它們。
 
 ![image](https://user-images.githubusercontent.com/67411136/128676810-c80a8e98-33f5-49e5-9ca2-2d84add6f563.png)
 
