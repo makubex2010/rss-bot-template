@@ -1,5 +1,5 @@
 # RSS-BOT
-使用 heroku 部屬的 RSS 機器人。 使用源代碼來自於 [核心程式](https://github.com/makubex2010/flowerss-bot/tree/deploy)
+使用 heroku 部屬的 RSS 機器人。 [核心程式](https://github.com/makubex2010/flowerss-bot/tree/deploy)
 
 將 RSS-BOT 分叉（fork）到自己的帳戶下。將您的配置添加到 config.yml.sample，並把名稱修改成 config.yml，如果您不知道其他配置的作用，請不要動它們。
 
