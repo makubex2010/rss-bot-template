@@ -8,9 +8,9 @@
       "python",
       "rss-bot"
     ],
-    "repository": "https://github.com/makubex2010/rss-bot",
-    "website": "https://github.com/makubex2010/rss-bot",
-    "success_url": "https://t.me/PlayStation4Tw",
+    "repository": "https://github.com/makubex2010/RSS-BOT",
+    "website": "https://github.com/makubex2010/RSS-BOT",
+    "success_url": "https://t.me/PlayStationTw",
     "stack": "container",
     "addons": [
       {
