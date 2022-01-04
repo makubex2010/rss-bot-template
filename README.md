@@ -1,6 +1,9 @@
-# RSS-BOT
+## RSS-BOT
 
 使用 heroku 部屬的 RSS 機器人。 [核心程式](https://github.com/makubex2010/flowerss-bot)
+
+## heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/makubex2010/RSS-BOT)
 
 ## 部屬教學
 
@@ -31,8 +34,3 @@ mysql://"mysql-user":"mysql-password"@"mysql-host"/mysql-database"
 mysql-port 的默認端口號是 3306。
 
 ![image](https://user-images.githubusercontent.com/67411136/128677426-d72339f5-d271-42cb-9339-fbaea60ed91f.png)
-
-## heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/makubex2010/RSS-BOT)
-
-部屬後再到你Heroku APP裡的Deploy連接你的Github Fork，這樣機器人才可以使用!
