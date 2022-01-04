@@ -2,7 +2,7 @@
 
 使用 heroku 部屬的 RSS 機器人。 [核心程式](https://github.com/makubex2010/flowerss-bot)
 
-## heroku
+## Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/makubex2010/RSS-BOT)
 
 ## 部屬教學
