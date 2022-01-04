@@ -18,4 +18,4 @@ mysql-port 的默認端口號是 3306。
 ## heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/makubex2010/RSS-BOT)
 
-部屬後再到你heroku APP裡的deploy連接你的github fork，這樣機器人才可以使用!
+部屬後再到你Heroku APP裡的deploy連接你的Github Fork，這樣機器人才可以使用!
