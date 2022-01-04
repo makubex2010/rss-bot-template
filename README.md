@@ -9,13 +9,13 @@
 
 1.將 RSS-BOT 分叉（fork）到自己的帳戶下。
 
-2.Heroku部屬後再到您Heroku APP裡的Deploy連接你的Github Fork
+2.Heroku部屬後再到你Heroku APP裡的Deploy連接你的Github Fork
 ![image](https://user-images.githubusercontent.com/67411136/148095858-bdb10898-75a0-46ff-898d-51d7b056c450.png)
 
 3.開啟Automatic Deploys，在Deploy Barnch，等他跑完
 ![image](https://user-images.githubusercontent.com/67411136/148096028-f7d0f397-ac5b-4aa8-9cbd-ae0cb3d18ee9.png)
 
-4.將您的配置添加到 config.yml.sample，並把名稱修改成 config.yml，如果您不知道其他配置的作用，請不要動它們。
+4.將你的配置添加到 config.yml.sample，並把名稱修改成 config.yml，如果你不知道其他配置的作用，請不要動它們。
 
 ![image](https://user-images.githubusercontent.com/67411136/128676810-c80a8e98-33f5-49e5-9ca2-2d84add6f563.png)
 
