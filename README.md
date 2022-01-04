@@ -25,7 +25,7 @@ ClearDB網址在Settings
 
 ![image](https://user-images.githubusercontent.com/67411136/148096408-eddec06b-cb73-47fc-86bf-e57e309cbd18.png)
 
-Reveal Config Vars點開會看到了
+Reveal Config Vars點開就會看到了
 
 ## 示例： CLEARDB_DATABASE_URL
 
