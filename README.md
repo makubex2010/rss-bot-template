@@ -1,5 +1,8 @@
 # RSS-BOT
+
 使用 heroku 部屬的 RSS 機器人。 [核心程式](https://github.com/makubex2010/flowerss-bot)
+
+## 部屬教學
 
 1.將 RSS-BOT 分叉（fork）到自己的帳戶下。
 
@@ -21,7 +24,7 @@ ClearDB網址在Settings
 
 Reveal Config Vars點開會看到了
 
- - 示例： CLEARDB_DATABASE_URL
+## 示例： CLEARDB_DATABASE_URL
 
 mysql://"mysql-user":"mysql-password"@"mysql-host"/mysql-database"
 
