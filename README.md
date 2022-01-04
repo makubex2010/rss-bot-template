@@ -9,7 +9,7 @@
 2.Heroku部屬後再到您Heroku APP裡的Deploy連接你的Github Fork
 ![image](https://user-images.githubusercontent.com/67411136/148095858-bdb10898-75a0-46ff-898d-51d7b056c450.png)
 
-3.開啟Automatic deploys，在手動部屬
+3.開啟Automatic deploys，在Deploy Barnch，等他跑完
 ![image](https://user-images.githubusercontent.com/67411136/148096028-f7d0f397-ac5b-4aa8-9cbd-ae0cb3d18ee9.png)
 
 4.將您的配置添加到 config.yml.sample，並把名稱修改成 config.yml，如果您不知道其他配置的作用，請不要動它們。
