@@ -19,7 +19,7 @@
 
 ![image](https://user-images.githubusercontent.com/67411136/128676810-c80a8e98-33f5-49e5-9ca2-2d84add6f563.png)
 
-5.請使用 ClearDB MySQL (for heroku) 來保存 RSS 配置。 在config.yml中的mysql下添加。
+5.請使用 JawsDB MySQL (for heroku) 來保存 RSS 配置。 在config.yml中的mysql下添加。
 
 ClearDB網址在Settings
 
@@ -27,7 +27,7 @@ ClearDB網址在Settings
 
 Reveal Config Vars點開就會看到了
 
-## 示例： CLEARDB_DATABASE_URL
+## 示例： JAWSDB_URL
 
 mysql://"mysql-user":"mysql-password"@"mysql-host"/mysql-database"
 
