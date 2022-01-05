@@ -29,7 +29,7 @@ Reveal Config Vars點開就會看到了
 
 ## 示例： JAWSDB_URL
 
-mysql://"mysql-user":"mysql-password"@"mysql-host"/mysql-database"
+mysql://"mysql-user":"mysql-password"@"mysql-host"/"mysql-database"
 
 mysql-port 的默認端口號是 3306。
 
