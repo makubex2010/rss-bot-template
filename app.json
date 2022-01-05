@@ -1,6 +1,6 @@
 {
     "name": "RSS-BOT",
-    "description": "RSS 機器人。核心程式:makubex2010/flowerss-bot",
+    "description": "使用 heroku 部屬的 RSS 機器人。 [核心程式](https://github.com/makubex2010/flowerss-bot)",
     "logo": "https://i.imgur.com/RYqwBHA.jpg",
     "keywords": [
       "rss",
