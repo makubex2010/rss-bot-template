@@ -1,6 +1,6 @@
 {
     "name": "RSS-BOT",
-    "description": "RSS 機器人。 使用 indes/flowerss-bot。",
+    "description": "RSS 機器人。核心程式:makubex2010/flowerss-bot",
     "logo": "https://i.imgur.com/RYqwBHA.jpg",
     "keywords": [
       "rss",
