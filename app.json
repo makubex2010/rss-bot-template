@@ -13,7 +13,7 @@
     "stack": "container",
     "addons": [
       {
-        "plan": "JawsDB MySQL:ignite"
+        "plan": "JawsDB:ignite"
       }
     ]
 }
