@@ -13,7 +13,7 @@
     "stack": "container",
     "addons": [
       {
-        "plan": "jawsdb:Kitefin"
+        "plan": "jawsdb"
       }
     ]
 }
