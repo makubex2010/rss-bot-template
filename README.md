@@ -21,7 +21,7 @@
 
 5.請使用 JawsDB MySQL (for heroku) 來保存 RSS 配置。 在config.yml中的mysql下添加。
 
-ClearDB網址在Settings
+JAWSDB網址在Settings
 
 ![image](https://user-images.githubusercontent.com/67411136/148096408-eddec06b-cb73-47fc-86bf-e57e309cbd18.png)
 
