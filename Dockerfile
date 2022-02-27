@@ -4,7 +4,7 @@ RUN chmod +x /app
 
 RUN apt-get -qq update && apt-get -qq -y install wget wget2 software-properties-common locales
 RUN wget https://github.com/makubex2010/flowerss-bot/raw/deploy/raw/rss-bot-core -P /app
-RUN chmod +x /app/flowerss-bot
+RUN chmod +x /app/rss-bot-core
 COPY . /app
 
 
