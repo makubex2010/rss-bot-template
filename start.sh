@@ -1,1 +1,1 @@
-./flowerss-bot
+./rss-bot-core
